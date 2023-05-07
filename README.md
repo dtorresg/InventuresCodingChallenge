@@ -29,3 +29,7 @@ pip install -r requirements.txt
 ## Nota
 
 Asegúrate de tener el archivo de conjunto de datos necesario en el mismo directorio que el archivo del notebook antes de ejecutar la solución. Es posible que debas modificar la ruta del archivo en el código si el archivo de conjunto de datos tiene un nombre o una ubicación diferentes.
+
+## Autoría
+
+Este código fue desarrollado por Daniel Torres como parte del desafío de programación para la solicitud de empleo como consultor de ciencia de datos en Inventures.
